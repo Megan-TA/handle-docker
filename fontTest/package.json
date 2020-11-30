@@ -1,0 +1,20 @@
+{
+  "name": "fonttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server ./test/dist --cors",
+    "build": "node ./test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "font-carrier": "^0.2.0",
+    "fontmin": "^0.9.8",
+    "http-server": "^0.12.3",
+    "map-stream": "0.0.7",
+    "opentype.js": "^1.3.3",
+    "svg2ttf": "^5.0.0"
+  }
+}

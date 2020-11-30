@@ -1,0 +1,275 @@
+@font-face {
+    font-family: "myfont";
+    src: url("PingFang-SC-Regular.eot"); /* IE9 */
+    src: url("PingFang-SC-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("PingFang-SC-Regular.woff") format("woff"), /* chrome, firefox */
+    url("PingFang-SC-Regular.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("PingFang-SC-Regular.svg#myfont") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+[class^="my-icon-"],
+[class*=" my-icon-"]:after {
+    font-family: "myfont";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.my-icon-unif654:before {
+    content: "\f654";
+}
+
+.my-icon-unif655:before {
+    content: "\f655";
+}
+
+.my-icon-unif656:before {
+    content: "\f656";
+}
+
+.my-icon-unif657:before {
+    content: "\f657";
+}
+
+.my-icon-unif658:before {
+    content: "\f658";
+}
+
+.my-icon-unif659:before {
+    content: "\f659";
+}
+
+.my-icon-unif65a:before {
+    content: "\f65a";
+}
+
+.my-icon-unif65b:before {
+    content: "\f65b";
+}
+
+.my-icon-unif65c:before {
+    content: "\f65c";
+}
+
+.my-icon-unif65d:before {
+    content: "\f65d";
+}
+
+.my-icon-unif665:before {
+    content: "\f665";
+}
+
+.my-icon-unif666:before {
+    content: "\f666";
+}
+
+.my-icon-unif667:before {
+    content: "\f667";
+}
+
+.my-icon-unif668:before {
+    content: "\f668";
+}
+
+.my-icon-unif669:before {
+    content: "\f669";
+}
+
+.my-icon-unif66a:before {
+    content: "\f66a";
+}
+
+.my-icon-unif66b:before {
+    content: "\f66b";
+}
+
+.my-icon-unif66c:before {
+    content: "\f66c";
+}
+
+.my-icon-unif66d:before {
+    content: "\f66d";
+}
+
+.my-icon-unif66e:before {
+    content: "\f66e";
+}
+
+.my-icon-unif66f:before {
+    content: "\f66f";
+}
+
+.my-icon-unif670:before {
+    content: "\f670";
+}
+
+.my-icon-unif671:before {
+    content: "\f671";
+}
+
+.my-icon-unif672:before {
+    content: "\f672";
+}
+
+.my-icon-unif673:before {
+    content: "\f673";
+}
+
+.my-icon-unif674:before {
+    content: "\f674";
+}
+
+.my-icon-unif675:before {
+    content: "\f675";
+}
+
+.my-icon-unif676:before {
+    content: "\f676";
+}
+
+.my-icon-unif677:before {
+    content: "\f677";
+}
+
+.my-icon-unif678:before {
+    content: "\f678";
+}
+
+.my-icon-unif679:before {
+    content: "\f679";
+}
+
+.my-icon-unif67a:before {
+    content: "\f67a";
+}
+
+.my-icon-unif67b:before {
+    content: "\f67b";
+}
+
+.my-icon-unif67c:before {
+    content: "\f67c";
+}
+
+.my-icon-unif67d:before {
+    content: "\f67d";
+}
+
+.my-icon-unif67e:before {
+    content: "\f67e";
+}
+
+.my-icon-unif685:before {
+    content: "\f685";
+}
+
+.my-icon-unif686:before {
+    content: "\f686";
+}
+
+.my-icon-unif687:before {
+    content: "\f687";
+}
+
+.my-icon-unif688:before {
+    content: "\f688";
+}
+
+.my-icon-unif689:before {
+    content: "\f689";
+}
+
+.my-icon-unif68a:before {
+    content: "\f68a";
+}
+
+.my-icon-unif68b:before {
+    content: "\f68b";
+}
+
+.my-icon-unif68c:before {
+    content: "\f68c";
+}
+
+.my-icon-unif68d:before {
+    content: "\f68d";
+}
+
+.my-icon-unif68e:before {
+    content: "\f68e";
+}
+
+.my-icon-unif68f:before {
+    content: "\f68f";
+}
+
+.my-icon-unif690:before {
+    content: "\f690";
+}
+
+.my-icon-unif691:before {
+    content: "\f691";
+}
+
+.my-icon-unif692:before {
+    content: "\f692";
+}
+
+.my-icon-unif693:before {
+    content: "\f693";
+}
+
+.my-icon-unif694:before {
+    content: "\f694";
+}
+
+.my-icon-unif695:before {
+    content: "\f695";
+}
+
+.my-icon-unif696:before {
+    content: "\f696";
+}
+
+.my-icon-unif697:before {
+    content: "\f697";
+}
+
+.my-icon-unif698:before {
+    content: "\f698";
+}
+
+.my-icon-unif699:before {
+    content: "\f699";
+}
+
+.my-icon-unif69a:before {
+    content: "\f69a";
+}
+
+.my-icon-unif69b:before {
+    content: "\f69b";
+}
+
+.my-icon-unif69c:before {
+    content: "\f69c";
+}
+
+.my-icon-unif69d:before {
+    content: "\f69d";
+}
+
+.my-icon-unif69e:before {
+    content: "\f69e";
+}
+
+
