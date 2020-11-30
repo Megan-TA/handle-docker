@@ -1,0 +1,20 @@
+{
+  "name": "handle-docker",
+  "version": "1.0.0",
+  "description": "```bash docker pull redis:latest",
+  "main": "mqclient.js",
+  "scripts": {
+    "start:redis": "docker run -itd --name redis-local -p 6379:6379 redis",
+    "stop:redis": "docker container kill redis-local && docker container rm redis-local",
+    "create:redis": "node redis/createTask.js",
+    "start": "npm run stop && npm run create:redis && pm2 start index.js -i 4 && pm2 logs",
+    "stop": "pm2 del all && pm2 flush"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.19.2",
+    "redis": "^3.0.2",
+    "redlock": "^4.2.0"
+  }
+}
